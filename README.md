@@ -2,7 +2,7 @@
 
 -I made a project where you can post a message. You can like or dislike the message and you can delete it.
 
-[Checkout my portfollio to see live app](https://rodasghidei.netlify.app/)
+[Checkout my portfolio to see live app](https://rodasghidei.netlify.app/)
 
 ![21 Savage](public/21savage.jpg)
 
@@ -21,7 +21,7 @@
 --Take a look at these couple examples that I have in my own portfolio:
 
 ## Other Projects
-[TO-DO-List - Express](https://personalexpressflowers.herokuapp.com/)
+[TO-DO-LIST - EXPRESS](https://personalexpressflowers.herokuapp.com/)
 ## Installation
 
 1. Clone repo
